@@ -1,5 +1,5 @@
 import cv2
-# - Python 3.5.2
+
 
 cap = cv2.VideoCapture(0)
 
